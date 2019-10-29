@@ -1,5 +1,24 @@
-package conceptOfJavaScript;
 
+
+/**
+ * Do something amazing and cool stuff with JavaScriptExecutor With Selenium WebDriver:
+
+1. Highlight an Element
+2. DrawBorder around an Element
+3. Generate custom Alert during Test Execution
+4. Click on an Element by using JaveScript
+5. Refresh browser by using JavaScript
+6. Get Title by using JavaScript
+7. Get InnerText of page by using JavaScript
+8. Scroll Into View and Scroll Page Down
+ */
+
+
+
+
+
+
+package conceptOfJavaScript;
 import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
